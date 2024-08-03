@@ -106,3 +106,68 @@
     font-weight: 700;
 
 }
+
+.other-amount {
+    color: #B3B3B3;
+    font-family: Poppins;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 30px;
+}
+
+.btn-donate {
+    border-radius: 5px;
+    background: #FF5959;
+    padding: 16px 12px;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 30px;
+    border: 0;
+}
+
+/* Our Donate Plan */
+.our-donate-plan {
+    display: flex;
+    gap: 24px;
+    margin-left: 157px;
+    margin-right: 157px;
+    text-align: left;
+}
+
+.donate-title {
+    color: #121212;
+    font-family: Poppins;
+    font-size: 24px;
+    font-weight: 600;
+    margin-top: 32px;
+}
+
+.donate-description {
+    color: #707070;
+    font-family: Poppins;
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.our-donate-plan-food {
+    border-radius: 5px;
+    background: rgba(79, 157, 166, 0.10);
+    padding: 54px 24px;
+}
+
+.our-donate-plan-family {
+    border-radius: 5px;
+    background: rgba(255, 89, 89, 0.10);
+    padding: 54px 24px;
+}
+
+.our-donate-plan-child {
+    padding: 54px 24px;
+    border-radius: 5px;
+    background: #FFF4D6;
+}
