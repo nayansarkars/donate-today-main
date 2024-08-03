@@ -171,3 +171,115 @@
     border-radius: 5px;
     background: #FFF4D6;
 }
+
+/* Extra part */
+.first-part {
+    display: flex;
+    margin-left: 157px;
+    margin-right: 231px;
+    text-align: left;
+    margin-top: 100px;
+}
+
+.first-part-title {
+    color: #121212;
+    font-family: Inter;
+    font-family: Inter;
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 60px;
+    /* padding-right: 300px; */
+}
+
+.first-part-description {
+    color: #707070;
+    font-family: Poppins;
+    font-size: 18px;
+    padding-right: 170px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.second-part {
+    display: flex;
+    margin-left: 157px;
+    margin-right: 231px;
+    text-align: left;
+    margin-top: 100px;
+}
+
+.second-part-title {
+    color: #121212;
+    font-family: Inter;
+    font-family: Inter;
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 60px;
+    margin-left: 170px;
+}
+
+.second-part-description {
+    color: #707070;
+    font-family: Poppins;
+    font-size: 18px;
+    margin-left: 170px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.btn-primary-second {
+    border-radius: 5px;
+    background: #FF5959;
+    padding: 16px 12px;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    border: 0;
+    margin-left: 170px;
+}
+.three-part {
+    display: flex;
+    margin-left: 157px;
+    margin-right: 231px;
+    text-align: left;
+    margin-top: 100px;
+}
+
+.three-part-title {
+    color: #121212;
+    font-family: Inter;
+    font-family: Inter;
+    font-size: 45px;
+    font-weight: 700;
+    margin-top: 60px;
+    margin-right: 170px;
+}
+
+.three-part-description {
+    color: #707070;
+    font-family: Poppins;
+    font-size: 18px;
+    margin-right: 170px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.btn-primary-three {
+    border-radius: 5px;
+    background: #FF5959;
+    padding: 16px 12px;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 600;
+    border: 0;
+    margin-right: 170px;
+}
+
+.img{
+    width: 700px;
+}
